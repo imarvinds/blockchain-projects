@@ -78,13 +78,6 @@ ERC-721 Token Symbol:
 ```
 USD
 ```
-
-Contract Address:
-
-```
-0x16A6A329aeaE6295b7C696189c80e3d9b28eBa7d
-```
-
 ## Built With
 
 * [web3.js](https://github.com/ethereum/web3.js/) - web3.js is a collection of libraries which allow you to interact with a local or remote Ethereum node, using an HTTP, WebSocket or IPC connection.
