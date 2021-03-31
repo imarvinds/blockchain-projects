@@ -1,4 +1,4 @@
-# Project #5. Identity and Smart Contracts
+# Identity and Smart Contracts
 
 ## Getting Started
 
