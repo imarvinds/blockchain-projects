@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Text Ownership DAPP Front End</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+<style>
+  input {
+    display: block;
+    margin-bottom: 12px;
+  }
+</style>
+
+<body>
+
+  <h1>Text Notary DAPP</h1>
+
+  <br><label for="name">Text </label>
+  <h3 id='name'>Text: </h3>
+  <br><br><button onclick="App.textFunc()">Get text</button>
+  <hr>
+  <br><label for="owner">Text Owner:</label>
+  <h3 id='owner'>Text Owner: </h3>
+  <br><br><button onclick="App.textOwnerFunc()">Get Text Owner</button>
+  <br><br>
+  <hr>
+  <br>
+  <h1>Claim Text</h1>
+  <br><br><button id="claimText" onclick="App.claimTextFunc()">Claim a text</button>
+  <br><br>
+  <br>
+  <hr>
+  <span id="status"></span>
+  <br>
+
+  <script src="index.js"></script>
+</body>
+
+</html>
