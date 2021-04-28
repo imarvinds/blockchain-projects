@@ -26,6 +26,3 @@
 
 ---
 
-### Built With
-
-* [draw.io](https://www.draw.io) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
